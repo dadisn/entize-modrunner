@@ -26,7 +26,7 @@ node_modules/
 # Users Environment Variables
 .lock-wscript
 
-# 
+# Development specific files
 *.out
 *.gz
 *.sublime-project
