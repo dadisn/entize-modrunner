@@ -1,7 +1,7 @@
 {
   "name": "entize-modrunner",
   "description": "Entize Module Runner - a stripped down app for running modules. Can be required as a devDependency in any module that we want to test.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/dadisn/entize-modrunner.git"
