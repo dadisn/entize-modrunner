@@ -25,6 +25,7 @@
     "derby": "^0.6.0-alpha32",
     "derby-stylus": "git://github.com/derbyjs/derby-stylus.git",
     "derby-debug": "^0.1.0",
+    "e-components": "^0.1.0",
     "express": "^4.9.8",
     "express-session": "^1.9.1",
     "livedb": "^0.4.8",
