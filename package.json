@@ -33,7 +33,6 @@
     "racer-bundle": "^0.1.1",
     "racer-highway": "^1.4.3",
     "redis": "^0.12.1",
-    "serve-favicon": "^2.1.6",
     "serve-static": "^1.7.1",
     "share-access": "^0.1.3",
     "lodash": "^2.4.1",
