@@ -1,0 +1,47 @@
+{
+  "name": "entize-modrunner",
+  "description": "Entize Module Runner - a stripped down app for running modules. Can be required as a devDependency in any module that we want to test.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dadisn/entize-modrunner.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.9.1",
+    "chalk": "^0.5.1",
+    "coffee-script": "^1.8.0",
+    "coffeeify": "^0.7.0",
+    "compression": "^1.2.0",
+    "connect-mongo": "^0.4.1",
+    "cookie-parser": "^1.3.3",
+    "d-bootstrap": "git://github.com/derbyjs/d-bootstrap.git",
+    "d-datepicker": "git://github.com/dadisn/d-datepicker.git#updated",
+    "d-connection-alert": "^0.1.2",
+    "d-before-unload": "^0.1.2",
+    "derby": "^0.6.0-alpha32",
+    "derby-stylus": "git://github.com/derbyjs/derby-stylus.git",
+    "derby-debug": "^0.1.0",
+    "express": "^4.9.8",
+    "express-session": "^1.9.1",
+    "livedb": "^0.4.8",
+    "livedb-mongo": "^0.4.1",
+    "racer-bundle": "^0.1.1",
+    "racer-highway": "^1.4.3",
+    "redis": "^0.12.1",
+    "serve-favicon": "^2.1.6",
+    "serve-static": "^1.7.1",
+    "share-access": "^0.1.3",
+    "lodash": "^2.4.1",
+    "moment": "^2.8.3"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "publishConfig": {
+    "registry": "http://npm.entize.se"
+  }
+}
