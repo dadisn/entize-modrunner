@@ -22,6 +22,7 @@
     "d-datepicker": "git://github.com/dadisn/d-datepicker.git#updated",
     "d-connection-alert": "^0.1.2",
     "d-before-unload": "^0.1.2",
+    "d-subcomponents": "^1.0.0",
     "derby": "^0.6.0-alpha32",
     "derby-stylus": "git://github.com/dmapper/derby-stylus.git",
     "derby-debug": "^0.1.0",
